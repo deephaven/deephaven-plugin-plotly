@@ -1,4 +1,6 @@
-# Deephaven Plugin for Plotly
+# DEPRECATED
+
+Please use the monorepo at https://github.com/deephaven/deephaven-plugins
 
 The Deephaven Plugin for Plotly. Allows for opening Plotly plots in a Deephaven environment. Any Plotly plot
 should be viewable by default. For example:
